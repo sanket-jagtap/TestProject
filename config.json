@@ -1,0 +1,8 @@
+{
+    "serverport": ":4888",
+    "USERNAME": "",
+    "AUTHSOURCE": "",
+    "PASSWORD": "",
+    "MONGODSN":"localhost:27017",
+    "DBNAME": "demo"
+}
